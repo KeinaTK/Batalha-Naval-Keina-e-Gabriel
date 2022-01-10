@@ -49,6 +49,7 @@ public class Main {
             while(verificaOcorrencia == 0){
                 System.out.print("Informe a posição x do navio " + i + ": ");
                 int x = sc.nextInt();
+                
                 System.out.print("Informe a posição y do navio " + i + ": ");
                 int y = sc.nextInt();
 
